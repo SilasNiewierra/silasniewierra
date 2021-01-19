@@ -20,7 +20,7 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="22" height="22"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/>
@@ -33,8 +33,8 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="22" height="22"/>
