@@ -46,8 +46,8 @@
 
 <p align="left">
 :muscle: Fitness
-:movie_camera: Music Production
-:musical_keyboard: Video Editing
+:musical_keyboard: Music Production
+:movie_camera: Video Editing
 :art:Design
 ♟️Chess
 :chart_with_upwards_trend: Investments
