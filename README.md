@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **new ideas**
 
-- 🌱 I’m currently learning **Flutter, Rive 2**
-
 - 👯 I’m looking to collaborate with **other content creators, developers and designers**
 
 - ⚡ Fun fact **I love to learn something new everyday and produce music**
